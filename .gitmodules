@@ -1,0 +1,6 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/kanhiya10/admin-repo.git
+[submodule "MobileApp"]
+	path = MobileApp
+	url = https://github.com/kanhiya10/MobileApp-repo.git
